@@ -25,4 +25,4 @@ Based on a cost/performance evaluation, the final recommendation is context-depe
 * The **custom hybrid algorithm** is the superior choice for problems where valid solutions are easy to generate.
 * For computationally intensive problems like Problem 3, the **optimized Simulated Annealing** approach is more practical and makes more sense.
 
-work with: github.com/valeriamegale
+work with: [Valeria Megale](https://github.com/ValeriaMegale)
